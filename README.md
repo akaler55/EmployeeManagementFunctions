@@ -50,3 +50,5 @@ Content-Type: application/json
 * Implement additional functions for managing employee data (update, delete, etc.).
 * Add unit tests for the functions.
 * Configure logging and monitoring for the deployed functions.
+**Postman Collection for testing the endpoints**
+https://www.postman.com/technical-administrator-38638156/workspace/akaler55/documentation/36205369-f189ad8a-1c71-495d-98ef-89f7de1631ae
